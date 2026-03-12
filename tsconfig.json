@@ -1,0 +1,11 @@
+{
+  /* Custom configuration. */
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "strict": false,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

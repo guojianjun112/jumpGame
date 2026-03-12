@@ -1,0 +1,55 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1773245202776": {
+        "type": "build",
+        "id": "1773245202776",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "3-11-2026 12:10:09 run package /Users/xihairen/Workspace/jumpleGame/jumpGame/build/web-desktop success!",
+        "options": {
+          "name": "jumpGame",
+          "server": "",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "15ffbe8c-44a2-48d9-83d1-b2f4494c22b2",
+          "outputName": "web-desktop",
+          "taskName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/gameScene.fire",
+              "uuid": "15ffbe8c-44a2-48d9-83d1-b2f4494c22b2"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-desktop3-11-2026 12-06.log"
+        },
+        "time": "3-11-2026 12:06:42",
+        "dirty": false
+      }
+    }
+  }
+}

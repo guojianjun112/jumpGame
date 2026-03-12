@@ -1,6 +1,13 @@
 {
-  "ver": "1.0.0",
+  "ver": "1.1.50",
+  "importer": "prefab",
+  "imported": true,
   "uuid": "b6cda26c-fd0c-43d6-a2bf-5ad1a48d1ff7",
-  "asyncLoadAssets": false,
-  "subMetas": {}
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "b1"
+  }
 }

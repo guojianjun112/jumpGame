@@ -1,0 +1,18 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "taskOptionsMap": {
+      "1773245202776": {
+        "enableAdsense": false,
+        "enableTestAd": false,
+        "__version__": "1.0.1"
+      },
+      "1773246217834": {
+        "enableAdsense": false,
+        "enableTestAd": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.7"
+  }
+}
